@@ -3,7 +3,7 @@
 
 This boilerplate provides a foundation for building a Node.js backend server using Express. It includes user authentication features such as user signup and signin. Additionally, it is designed to seamlessly deploy on Vercel for easy scalability and hosting.
 
-## Features
+## Highlights
 
 - User signup: Register new users with unique usernames and passwords.
 - User signin: Allow registered users to authenticate and access protected resources.
