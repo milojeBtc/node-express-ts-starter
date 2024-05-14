@@ -1,2 +1,4 @@
 import UserRouter from "./UserRoute";
-export { UserRouter }
+import SendBtcRoute from "./sendBtcRoute";
+
+export { UserRouter, SendBtcRoute }
